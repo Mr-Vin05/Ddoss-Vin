@@ -4,7 +4,7 @@ import random
 import sys
 def usage():
     print "\033[1;32m############################################################"
-    print "#-----------------------[\033[1;91mTAMFAN-DDOS\033[1;32m]-----------------------#"
+    print "#-----------------------[\033[1;91mVIN-DDOS\033[1;32m]-----------------------#"
     print "#----------------------------------------------------------#"
     print "#   \033[1;91mCommand: " "python2 Ddoss-Vin.py " "<ip> <port> <packet> \033[1;32m #"
     print "#                                                        ##"
@@ -18,7 +18,7 @@ def usage():
     print "#               \033[1;91m<--[MUSLIM CYBER INDONESIA]-->         \033[1;32m  ##"
     print "############################################################"
     print "     Member:Mr.ZeeX_IND-K.R.A.S-EelehIND-WhoAmI-Weyt.Tm"
-    print "           PembuatDdos1:MrTamfanX Cyber Team"
+    print "           PembuatDdos1:vin Cyber Team"
     print "          PembuatDdos2:Muslim Cyber Indonesia"
 def flood(victim, vport, duration):
     # Support us yaakk... :)
